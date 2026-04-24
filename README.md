@@ -232,4 +232,4 @@ Perusahaan dapat fokus mempertahankan karyawan dengan karakteristik:
 
 Dengan strategi retensi yang tepat, attrition dapat ditekan.
 
-# ⭐ Jika project ini bermanfaat, jangan lupa beri star repository ini.
+
