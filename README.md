@@ -30,7 +30,7 @@ Target variabel:
   * Yes = Karyawan keluar
   * No = Karyawan bertahan
 
-## 🛠️ Library yang Digunakan
+##  Library yang Digunakan
 
 ```python
 pandas
